@@ -1,0 +1,53 @@
+.message-page {
+  background-color: white;
+  height: 100vh;
+}
+
+.login-page {
+  background-color: white;
+  height: 100vh;
+}
+
+.login-page .card {
+  padding: 40px;
+  max-width: 400px;
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-page .card h1 {
+  color: #fd4d4d;
+}
+
+.login-page .card p {
+  color: #5d7290;
+  font-size: 14px;
+}
+
+.login-page .card form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.login-page .card form input {
+  padding: 8px;
+  border: 1px solid #d8d8d8;
+  background-color: #f2f2f2;
+  color: #5d7290 !important;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+
+.login-page .card form button {
+  padding: 8px;
+  background-color: #fd4d4d;
+  border: 1px solid rgba(209, 22, 22, 0.507);
+  border-radius: 6px;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}/*# sourceMappingURL=App.css.map */

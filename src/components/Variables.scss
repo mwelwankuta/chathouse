@@ -1,0 +1,12 @@
+$primary-color: #fd4d4d;
+$red-color: rgba(209, 22, 22, 0.507);
+
+
+@mixin button($background, $color, $border-color){
+    padding: 10px;
+    background-color: $background;
+    border: 1px solid $border-color;
+    border-radius: 6px;
+    color: $color;
+    font-size: 16px;
+}

@@ -1,0 +1,28 @@
+.message-list {
+  padding: 70px 0px 100px 0px;
+}
+.message-list small {
+  font-size: 11px;
+}
+.message-list ul {
+  padding: 0 10px;
+}
+.message-list ul li {
+  width: 100%;
+  display: flex;
+}
+.message-list ul li div {
+  flex-direction: column;
+  list-style-type: none;
+  margin-bottom: 5px;
+  padding: 0 5px;
+  margin-top: 5px;
+}
+.message-list ul li div p {
+  color: white;
+  background-color: #fd4d4d;
+  font-weight: 500px;
+  border-radius: 20px;
+  padding: 5px;
+  border: 1px solid rgba(209, 22, 22, 0.507);
+}/*# sourceMappingURL=style.css.map */
